@@ -172,12 +172,7 @@ GravWaveFormer/
 ├── subset_ids.csv                            # Selected 5,000 sample IDs
 ├── split_train.csv / split_validation.csv / split_test.csv
 ├── requirements.txt
-├── README.md
-├── checkpoints/
-│   ├── best_gravwave.pth                     # GravWaveFormer weights
-│   ├── best_wave1d.pth                       # WaveCNN1D weights
-│   ├── best_gnn.pth                          # CrossDetectorGNN weights
-│   └── best_ensemble_meta.pth                # Ensemble MLP weights
+├── README.md               # Ensemble MLP weights
 └── results/
     ├── ablation_study_full.png               # Ablation study bar chart
     ├── roc_curves_all_models.png             # ROC curves for all models
