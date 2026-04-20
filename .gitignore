@@ -1,10 +1,5 @@
-# Ignore large / generated files
 checkpoints/
 *.pth
 *.pt
-results/
-raw_data/
-*.csv
 __pycache__/
 *.ipynb_checkpoints
-
