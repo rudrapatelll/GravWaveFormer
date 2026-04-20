@@ -11,7 +11,7 @@ EGN 6217 Applied Deep Learning | University of Florida | Rudra Patel
 GravWaveFormer takes a 2-second recording from LIGO's gravitational wave detectors and determines whether a gravitational wave signal is hiding inside the noise. It uses three different neural networks, each looking at the data from a different angle, and combines their opinions through a learned ensemble. The system achieves a test ROC-AUC of **0.934** and processes each sample in under 2 milliseconds.
 
 <p align="center">
-  <a href="results/gravwaveformer_demo.mov">
+  <a href="results/gravwaveformer_demo.mov" target="_blank">
     <img src="results/demo.png" width="700">
   </a>
 </p>
